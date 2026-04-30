@@ -2,11 +2,11 @@
 Trifilar pendulum for MoI measurements, Marker tracker software and GUI
 
 ## What can you find on this repository
-This repository is complementary to the https://data.mendeley.com/drafts/zww548rfbn repository where the Hardware components of this project are outlined.
+This repository is complementary to the 10.17632/zww548rfbn.4 repository where the Hardware components of this project are outlined.
 To use the software the user should run the file named: Moi_calculatrion_automatic_vXX.py. This will enable a GUI designed to perform a video track on two markers on an oscillating platform. by analysing the oscillation the Mass Moment of Inertia of the platform can be determined. The Software outputs, the MoI, the period of oscillation and a plot of the oscillation. 
 
 
-Furthermore, the user will find two images (marker_N=4.png and marker_N=5.png) on this repo, they are the markers that the software uses for the video tracking, the N=5 marker should be placed in the centre of the platform. refer to the building instructions which can be found at https://data.mendeley.com/drafts/zww548rfbn. The N=4 marker should be placed as far from the centre as possible whilst still fitting into the frame captured by the camera.
+Furthermore, the user will find two images (marker_N=4.png and marker_N=5.png) on this repo, they are the markers that the software uses for the video tracking, the N=5 marker should be placed in the centre of the platform. refer to the building instructions which can be found at 10.17632/zww548rfbn.4. The N=4 marker should be placed as far from the centre as possible whilst still fitting into the frame captured by the camera.
 
 ## How to use the software
 Requires Python 3.9 or newer.
