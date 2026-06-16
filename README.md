@@ -13,7 +13,7 @@ Requires Python 3.9 or newer.
 
 ```bash
 pip install -r requirements.txt
-python Moi_calculation_automatic_v3.py
+python Moi_calculation_automatic.py
 
 For installing Python packages refer to: https://packaging.python.org/en/latest/tutorials/installing-packages/
 
